@@ -13,4 +13,4 @@ Themes for Notepad ++\
 \
 <img width="1067" height="663" alt="image" src="https://github.com/user-attachments/assets/83249291-fe8f-467a-be31-d4a7a861553c" />\
 \
-Enjoy!\
+Enjoy!
